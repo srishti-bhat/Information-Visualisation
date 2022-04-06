@@ -6,11 +6,16 @@ To run the Notebook, open following Google Colab Links or Kaggle Links:
 
 <ins>**Poatato System:**</ins>
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SkaUfk7eyFY_Y4IrrosrzYW2bfOT_mo8?usp=sharing)
+
+
 **Colab** : https://colab.research.google.com/drive/1SkaUfk7eyFY_Y4IrrosrzYW2bfOT_mo8?usp=sharing
 
 **Kaggle**: https://www.kaggle.com/code/srishtibhat/potato-system
 
 <ins>**Turnip System:**</ins>
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1A2gWZFpflxLOz6ERuX5jFjynbRXnT_XM?usp=sharing)
 
 **Colab** : https://colab.research.google.com/drive/1A2gWZFpflxLOz6ERuX5jFjynbRXnT_XM?usp=sharing
 
