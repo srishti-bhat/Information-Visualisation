@@ -4,14 +4,14 @@ Both the systems were developed using Altair
 
 To run the Notebook, open following Google Colab Links or Kaggle Links:
 
-**Poatato System:** 
+<ins>**Poatato System:**</ins>
 
-**Colab** : https://colab.research.google.com/drive/12r1ZNfPTOI0ZoN00y0TR8Tix3sgDBLjP?usp=sharing
+**Colab** : https://colab.research.google.com/drive/1SkaUfk7eyFY_Y4IrrosrzYW2bfOT_mo8?usp=sharing
 
 **Kaggle**: https://www.kaggle.com/code/srishtibhat/potato-system
 
-**Turnip System:** 
+<ins>**Turnip System:**</ins>
 
-**Colab** : https://colab.research.google.com/drive/11Y9U38H6fNHX_jwHUiIo2miHiyd9ojK_?usp=sharing
+**Colab** : https://colab.research.google.com/drive/1A2gWZFpflxLOz6ERuX5jFjynbRXnT_XM?usp=sharing
 
 **Kaggle**: https://www.kaggle.com/srishtibhat/turnip-system
