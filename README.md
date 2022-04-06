@@ -8,14 +8,11 @@ To run the Notebook, open following Google Colab Links or Kaggle Links:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SkaUfk7eyFY_Y4IrrosrzYW2bfOT_mo8?usp=sharing)
 
-[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)] (https://www.kaggle.com/code/srishtibhat/potato-system)
-
-**Kaggle**: https://www.kaggle.com/code/srishtibhat/potato-system
+[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/srishtibhat/potato-system)
 
 <ins>**Turnip System:**</ins>
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1A2gWZFpflxLOz6ERuX5jFjynbRXnT_XM?usp=sharing)
 
-[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)] (https://www.kaggle.com/srishtibhat/turnip-system)
+[![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/srishtibhat/turnip-system)
 
-**Kaggle**: https://www.kaggle.com/srishtibhat/turnip-system
